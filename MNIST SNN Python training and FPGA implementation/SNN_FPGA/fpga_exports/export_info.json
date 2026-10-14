@@ -1,0 +1,100 @@
+{
+  "checkpoint": "snn_mnist_16_5epochs.pth",
+  "checkpoint_sha256": "6403c946406898dd8feafd3d6b72702fdf0d8fa8190f8abe734673428b24d1f7",
+  "network": [
+    784,
+    16,
+    10
+  ],
+  "inference_steps": 10,
+  "fractional_bits": 15,
+  "scale": 32768,
+  "weight_bias_bits": 16,
+  "current_membrane_bits": 32,
+  "hidden_accumulator_bits": 48,
+  "hidden_accumulator_fractional_bits": 30,
+  "beta_integer": [
+    29491,
+    29491
+  ],
+  "threshold_integer": [
+    32768,
+    32768
+  ],
+  "reset_mechanism": "subtract",
+  "reset_delay": true,
+  "spike_comparison": "membrane > threshold",
+  "parameter_rounding": "nearest; ties to even",
+  "product_rescaling": "(value + 16384) arithmetic shift right 15",
+  "product_rounding": "nearest; ties toward positive infinity",
+  "prediction_tie_break": "lowest digit index",
+  "fc1_weight_address": "hidden_neuron * 784 + input_pixel",
+  "fc2_weight_address": "output_neuron * 16 + hidden_neuron",
+  "lif_test_steps": 32,
+  "lif_test_initial_membrane": 0,
+  "files": [
+    {
+      "filename": "fc1_weights.mem",
+      "values": 12544,
+      "bits": 16,
+      "signed": true,
+      "sha256": "a1f358c6198afd9ead3904f605606f9e251537dbaf1f69f6310206fa76dfe6d3"
+    },
+    {
+      "filename": "fc1_biases.mem",
+      "values": 16,
+      "bits": 16,
+      "signed": true,
+      "sha256": "844ee1ea128e501e21ef75f2f3426a2a68efc22b69a9f5ca495ee554f2b74093"
+    },
+    {
+      "filename": "fc2_weights.mem",
+      "values": 160,
+      "bits": 16,
+      "signed": true,
+      "sha256": "f165722527a78891b3cf037310e1670e73d29baf704c98d1a902c3227be909d8"
+    },
+    {
+      "filename": "fc2_biases.mem",
+      "values": 10,
+      "bits": 16,
+      "signed": true,
+      "sha256": "e0a94826c9e711d79d17188f49042367c636c6fa331e33e415d2eabe0caf7800"
+    },
+    {
+      "filename": "lif_beta.mem",
+      "values": 2,
+      "bits": 16,
+      "signed": false,
+      "sha256": "3dd1e37d42bb8391a17f2f5f41c361f640117e20b42c4969845cc5e883b75cf4"
+    },
+    {
+      "filename": "lif_threshold.mem",
+      "values": 2,
+      "bits": 32,
+      "signed": true,
+      "sha256": "7dfb168ebf34e32e918c96a2de64c253288cbdad0cbc21df6e159e18ff0f17b5"
+    },
+    {
+      "filename": "lif_test_currents.mem",
+      "values": 32,
+      "bits": 32,
+      "signed": true,
+      "sha256": "5bfaa2cebffee9c1a6cae752a9bb4995d3ebf363cd111c144333ca677c9c7a68"
+    },
+    {
+      "filename": "lif_test_membranes.mem",
+      "values": 32,
+      "bits": 32,
+      "signed": true,
+      "sha256": "74a81b48cc20524d1ca7f26cb4faf92db6875060da213bc101619e5eb1ed4d0c"
+    },
+    {
+      "filename": "lif_test_spikes.mem",
+      "values": 32,
+      "bits": 8,
+      "signed": false,
+      "sha256": "c4ff38d6eb8ec187d37725779b0fc0b283b0b61599003909250fc38c08bf32cb"
+    }
+  ]
+}

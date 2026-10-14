@@ -1,0 +1,18 @@
+0.7
+2020.2
+Dec 19 2021
+11:27:32
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/SNN_LIF_Test.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/hidden_current_mac.v,1791909072,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/lif_neuron.v,,hidden_current_mac,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/lif_neuron.v,1791908323,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_hidden_layer.v,,lif_neuron,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_hidden_layer.v,1791909627,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_network.v,,snn_hidden_layer,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_network.v,1791910395,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_output_layer.v,,snn_network,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_output_layer.v,1791910076,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_rom_runner.v,,snn_output_layer,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_rom_runner.v,1791911321,verilog,,D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_rom_runner.v,,snn_rom_runner,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_hidden_current_mac.v,1791909099,verilog,,,,tb_hidden_current_mac,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_lif_neuron.v,1791908343,verilog,,,,tb_lif_neuron,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_hidden_layer.v,1791909686,verilog,,,,tb_snn_hidden_layer,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_network.v,1791910435,verilog,,,,tb_snn_network,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_network_multi.v,1791910821,verilog,,,,tb_snn_network_multi,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_output_layer.v,1791910132,verilog,,,,tb_snn_output_layer,,,,,,,,
+D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_rom_runner.v,1791911339,verilog,,,,tb_snn_rom_runner,,,,,,,,

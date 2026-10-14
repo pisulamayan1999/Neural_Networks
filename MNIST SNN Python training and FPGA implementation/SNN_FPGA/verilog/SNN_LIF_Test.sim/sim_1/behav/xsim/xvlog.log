@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/snn_rom_runner.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module snn_rom_runner
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_rom_runner.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_snn_rom_runner

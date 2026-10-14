@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Tue Oct 13 19:15:48 2026
+# Process ID: 3584
+# Current directory: D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/SNN_LIF_Test.runs/synth_1
+# Command line: vivado.exe -log snn_rom_runner.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source snn_rom_runner.tcl
+# Log file: D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/SNN_LIF_Test.runs/synth_1/snn_rom_runner.vds
+# Journal file: D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/SNN_LIF_Test.runs/synth_1\vivado.jou
+# Running On: PILA, OS: Windows, CPU Frequency: 4200 MHz, CPU Physical cores: 16, Host memory: 67517 MB
+#-----------------------------------------------------------
+source snn_rom_runner.tcl -notrace

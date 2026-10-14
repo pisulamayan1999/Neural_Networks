@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../hidden_current_mac.v" \
+"../../../../lif_neuron.v" \
+"../../../../snn_hidden_layer.v" \
+"../../../../snn_network.v" \
+"../../../../snn_output_layer.v" \
+"../../../../snn_rom_runner.v" \
+"../../../../tb_snn_rom_runner.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

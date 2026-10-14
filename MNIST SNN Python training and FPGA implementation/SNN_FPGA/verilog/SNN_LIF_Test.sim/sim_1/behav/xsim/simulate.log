@@ -1,0 +1,33 @@
+Time resolution is 1 ps
+==============================================
+AUTOMATIC ROM-LOADED SNN: 20 IMAGES
+==============================================
+IMAGE 0 label=7 prediction=7 Python=7 cycles=25195
+IMAGE 1 label=2 prediction=2 Python=2 cycles=25195
+IMAGE 2 label=1 prediction=1 Python=1 cycles=25195
+IMAGE 3 label=0 prediction=0 Python=0 cycles=25195
+IMAGE 4 label=4 prediction=4 Python=4 cycles=25195
+IMAGE 5 label=1 prediction=1 Python=1 cycles=25195
+IMAGE 6 label=4 prediction=4 Python=4 cycles=25195
+IMAGE 7 label=9 prediction=9 Python=9 cycles=25195
+IMAGE 8 label=5 prediction=5 Python=5 cycles=25195
+IMAGE 9 label=9 prediction=9 Python=9 cycles=25195
+IMAGE 10 label=0 prediction=0 Python=0 cycles=25195
+IMAGE 11 label=6 prediction=6 Python=6 cycles=25195
+IMAGE 12 label=9 prediction=9 Python=9 cycles=25195
+IMAGE 13 label=0 prediction=0 Python=0 cycles=25195
+IMAGE 14 label=1 prediction=1 Python=1 cycles=25195
+IMAGE 15 label=5 prediction=5 Python=5 cycles=25195
+IMAGE 16 label=9 prediction=9 Python=9 cycles=25195
+IMAGE 17 label=7 prediction=7 Python=7 cycles=25195
+IMAGE 18 label=3 prediction=3 Python=3 cycles=25195
+IMAGE 19 label=4 prediction=4 Python=4 cycles=25195
+==============================================
+Images tested: 20
+Predictions matching Python: 20
+Correct classifications: 20
+Final spike counts checked: 200
+Failures: 0
+ALL ROM RUNNER TESTS PASSED
+==============================================
+$finish called at time : 20159360 ns : File "D:/Internship_Projects/Step_2_SNN/SNN_FPGA/verilog/tb_snn_rom_runner.v" Line 246
