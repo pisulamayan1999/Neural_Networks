@@ -1,0 +1,16 @@
+MNIST test index: 0
+True digit: 7
+Python prediction: 7
+Q1.15 FPGA-style prediction: 7
+
+Output scores:
+Digit 0: -918588131
+Digit 1: -2612154191
+Digit 2: 1150058915
+Digit 3: 296446235
+Digit 4: -3004396620
+Digit 5: -862821956
+Digit 6: -4755040881
+Digit 7: 2059910044
+Digit 8: -1622576149
+Digit 9: -1193252188

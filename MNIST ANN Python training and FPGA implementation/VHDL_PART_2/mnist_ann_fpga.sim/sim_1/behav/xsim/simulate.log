@@ -1,0 +1,57 @@
+Time resolution is 1 ps
+
+================================================
+STARTING REAL MNIST IMAGE TEST
+================================================
+
+MNIST test image index = 0
+Actual digit           = 7
+Python prediction      = 7
+Q1.15 reference        = 7
+
+Running complete FPGA ANN...
+
+
+================================================
+COMPLETE ANN FINISHED
+================================================
+
+Vivado / Verilog prediction = 7
+
+************************************************
+REAL MNIST TEST PASSED
+************************************************
+
+Actual MNIST digit     : 7
+Python prediction      : 7
+Q1.15 reference        : 7
+Verilog ANN prediction : 7
+
+ALL RESULTS MATCH.
+
+Complete hardware path:
+
+Real 28 x 28 MNIST image
+          |
+          v
+784 Q1.15 pixel values
+          |
+          v
+32 hidden neurons
+          |
+        ReLU
+          |
+          v
+10 output neurons
+          |
+          v
+        Argmax
+          |
+          v
+Predicted digit = 7
+
+================================================
+REAL MNIST FPGA ANN TEST COMPLETED
+================================================
+
+$finish called at time : 254316 ns : File "D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sim_1/new/tb_mnist_ann.v" Line 246

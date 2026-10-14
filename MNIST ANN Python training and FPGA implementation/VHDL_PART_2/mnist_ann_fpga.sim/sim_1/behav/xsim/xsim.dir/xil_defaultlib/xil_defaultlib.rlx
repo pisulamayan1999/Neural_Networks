@@ -1,0 +1,16 @@
+0.7
+2020.2
+Dec 19 2021
+11:27:32
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sim_1/new/tb_mnist_ann.v,1787843891,verilog,,,,tb_mnist_ann,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sim_1/new/tb_output_layer.v,1787838465,verilog,,,,tb_output_layer,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_layer.v,1787831235,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_weights_mem.v,,hidden_layer,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_neuron.v,1787829556,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_weight_mem.v,,hidden_neuron,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_neuron_top.v,1787829915,verilog,,,,hidden_neuron_top,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_weight_mem.v,1787829618,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_neuron_top.v,,hidden_weight_mem,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/hidden_weights_mem.v,1787830209,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/mnist_ann.v,,hidden_weights_mem,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/mnist_ann.v,1787839042,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/output_layer.v,,mnist_ann,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/output_layer.v,1787835542,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/output_weights_mem.v,,output_layer,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/output_weights_mem.v,1787835412,verilog,,D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sim_1/new/tb_mnist_ann.v,,output_weights_mem,,,,,,,,
+D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.srcs/sources_1/new/tb_hidden_layer.v,1787834354,verilog,,,,tb_hidden_layer,,,,,,,,

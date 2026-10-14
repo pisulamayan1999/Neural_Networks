@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mnist_ann_fpga.srcs/sources_1/new/hidden_layer.v" \
+"../../../../mnist_ann_fpga.srcs/sources_1/new/hidden_weights_mem.v" \
+"../../../../mnist_ann_fpga.srcs/sources_1/new/mnist_ann.v" \
+"../../../../mnist_ann_fpga.srcs/sources_1/new/output_layer.v" \
+"../../../../mnist_ann_fpga.srcs/sources_1/new/output_weights_mem.v" \
+"../../../../mnist_ann_fpga.srcs/sim_1/new/tb_mnist_ann.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

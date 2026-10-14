@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2.1 (64-bit)
+# SW Build 3414424 on Sun Dec 19 10:57:22 MST 2021
+# IP Build 3405791 on Sun Dec 19 15:54:35 MST 2021
+# Start of session at: Tue Sep  1 20:32:11 2026
+# Process ID: 22676
+# Current directory: D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.runs/impl_1
+# Command line: vivado.exe -log mnist_fpga_top_9.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mnist_fpga_top_9.tcl -notrace
+# Log file: D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.runs/impl_1/mnist_fpga_top_9.vdi
+# Journal file: D:/Internship_Projects/VHDL_PART_2/mnist_ann_fpga.runs/impl_1\vivado.jou
+# Running On: PILA, OS: Windows, CPU Frequency: 4200 MHz, CPU Physical cores: 16, Host memory: 67517 MB
+#-----------------------------------------------------------
+source mnist_fpga_top_9.tcl -notrace
