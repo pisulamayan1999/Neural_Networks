@@ -4,7 +4,7 @@
 
   
 <p align="center">
-  <img src="Digilent Zynq FPGA Development Board.png" width="900">
+  <img src="Digilent Zynq FPGA Development Board.png" width="900" height="600">
 </p>
 
 
